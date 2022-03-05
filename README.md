@@ -37,14 +37,14 @@ We start with a review of material from Introduction to Microeconomics (EC 201) 
   
   ## Midterm 35%
   
-  - Online through Canvas on Thursday *June 30*
+  - Online through Canvas on Thursday **June 30**
   - Available during the regular class meeting time, 10:00-11:50 am
   - Using notes and material on Canvas is allowed
   - Looking up answers online is considered cheating
   
   ## Final 35%
   
-  - Online through Canvas on Thursday *July 14*
+  - Online through Canvas on Thursday **July 14**
   - Available during the regular class meeting time, 10:00-11:50 am
   - Using notes and material on Canvas is allowed
   - Looking up answers online is considered cheating
