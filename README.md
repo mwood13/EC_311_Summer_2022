@@ -80,6 +80,7 @@ During exams you may only you’re your book and class notes from Canvas. Any ot
 
 ### Topics:
   - Individual and Market Demand: Chapter 5.1 - 5.5, 2.5
+  - Behavioral and Experimental Economics: Chapter 18
 
 ### Important Dates: 
   - Homework 3 and 4 Due 11:59pm, Sunday, July 3
