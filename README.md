@@ -67,9 +67,9 @@ During exams you may only you’re your book and class notes from Canvas. Any ot
 ## Week 1
 
 ### Topics:
-  - Review of Supply, Demand, Equilibrium Chapters 2.1 - 2.4
+  - Review of Supply, Demand, Equilibrium: Chapter 2.1 - 2.4
   - Calculus for EC 311
-  - Preferences, Utility, Budget Constraints, and Choice Chapters 4.1 - 4.4
+  - Preferences, Utility, Budget Constraints, and Choice: Chapter 4.1 - 4.4
 
 ### Important Dates: 
   - Homework 1 and 2 Due 11:59pm, Sunday, June 26
@@ -104,7 +104,7 @@ During exams you may only you’re your book and class notes from Canvas. Any ot
 ## week 4
 
 ### Topics:
-  - Profit Maximization under Perfect Competition: Chpater 8
+  - Profit Maximization under Perfect Competition: Chapter 8
   - Monopoly: Chapter 9.1 - 9.5
   - Oligopoly: Chapter 11.1 - 11.5
 
