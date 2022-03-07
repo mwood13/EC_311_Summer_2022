@@ -29,9 +29,9 @@ We start with a review of material from Introduction to Microeconomics (EC 201) 
 
   ## Homework 30%
     
-   - Accessible through Acheive.
-   - Due every Sunday at 11:59pm.
-   - There will be 8 Problem Sets, 2 per week.
+   - All homework accessible through Acheive on the first day of class.
+   - Different sets due every Sunday at 11:59pm (specifics below).
+   - There will be 8 Problem Sets.
    - You get two attempts per question, and the highest score is kept.
    - The lowest homework grade will be dropped
   
@@ -70,20 +70,21 @@ During exams you may only you’re your book and class notes from Canvas. Any ot
   - Review of Supply, Demand, Equilibrium: Chapter 2.1 - 2.4
   - Calculus for EC 311
   - Preferences, Utility, Budget Constraints, and Choice: Chapter 4.1 - 4.4
+  - Individual and Market Demand (Part 1): Chapter 5.1 - 5.5, 2.5
 
 ### Important Dates: 
-  - Homework 1 and 2 Due 11:59pm, Sunday, June 26
+  - Homework for Chapter 2 and 4 Due 11:59pm, Sunday, June 26
     
  **Content:**
 
 ## Week 2
 
 ### Topics:
-  - Individual and Market Demand: Chapter 5.1 - 5.5, 2.5
+  - Individual and Market Demand (Part 2): Chapter 5.1 - 5.5, 2.5
   - Behavioral and Experimental Economics: Chapter 18
 
 ### Important Dates: 
-  - Homework 3 and 4 Due 11:59pm, Sunday, July 3
+  - Homework for Chapter 5 Due 11:59pm, Sunday, July 3
   - Midterm from 10:00 - 11:50am, Thursday, June 30
     
  **Content:**
@@ -93,23 +94,23 @@ During exams you may only you’re your book and class notes from Canvas. Any ot
 ### Topics:
   - Production: Chapter 6
   - Cost Functions: Chapter 7
-  - Profit Maximization under Perfect Competition: Chapter 8
+  - Profit Maximization under Perfect Competition (Part 1): Chapter 8
 
 ### Important Dates: 
-  - Homework 5 and 6 Due 11:59pm, Sunday, July 10
+  - Homework for Chapter 6 and 7 Due 11:59pm, Sunday, July 10
   - No class on July 4
     
  **Content:**
 
-## week 4
+## Week 4
 
 ### Topics:
-  - Profit Maximization under Perfect Competition: Chapter 8
+  - Profit Maximization under Perfect Competition (Part 2): Chapter 8
   - Monopoly: Chapter 9.1 - 9.5
   - Oligopoly: Chapter 11.1 - 11.5
 
 ### Important Dates: 
-  - Homework 7 and 8 Due 11:59pm, Sunday, July 17
+  - Homework for Chapter 8, 9, and 11 Due 11:59pm, Sunday, July 17
   - Final Exam from 10:00 - 11:50am, Thursday, July 14
     
  **Content:**
