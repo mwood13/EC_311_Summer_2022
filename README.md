@@ -27,7 +27,20 @@ We start with a review of material from Introduction to Microeconomics (EC 201) 
 
 # Assesment: 
 
-  ## Homework 30%
+## Option A
+- Homework 30%
+- Midterm 35%
+- Final 35%
+
+## Option B 
+- Homework 30%
+- Midterm 30%
+- Final 40%
+
+
+Both options will be calculated for all students. The option that warrants the highest grade will be kept. 
+
+  ## Homework 
     
    - All homework accessible through Acheive on the first day of class.
    - Different sets due every Sunday at 11:59pm (specifics below).
@@ -35,14 +48,14 @@ We start with a review of material from Introduction to Microeconomics (EC 201) 
    - You get two attempts per question, and the highest score is kept.
    - The lowest homework grade will be dropped
   
-  ## Midterm 35%
+  ## Midterm 
   
   - Online through Canvas on Thursday **June 30**
   - Available during the regular class meeting time, 10:00-11:50 am
   - Using notes and material on Canvas is allowed
   - Looking up answers online is considered cheating
   
-  ## Final 35%
+  ## Final 
   
   - Online through Canvas on Thursday **July 14**
   - Available during the regular class meeting time, 10:00-11:50 am
