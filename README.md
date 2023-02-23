@@ -5,7 +5,7 @@ This course is designed to develop an understanding of the three pillars of  mod
 
 We start with a review of material from Introduction to Microeconomics (EC 201) by discussing supply and demand and how these interact to determine market equilibrium. After we develop the mathematical tools we need for the class from calculus, we will proceed to study consumer theory. We will gain an understanding of how consumers’ preferences and budgets lead to their consumption choices and the derivation of individual and market demand curves. We will then study producer theory and learn how available technologies lead to cost functions and supply curves. Having gained an understanding of both the demand and the supply sides of economies, we proceed to study the interactions of consumers and firms in different types of markets. 
 
-(add syllabus)
+[Syllabus](https://github.com/mwood13/EC_311_Summer/blob/main/EC311-Syllabus.pdf)
 
 # Prerequisites:
 
